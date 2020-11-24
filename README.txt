@@ -6,21 +6,21 @@ Here we use backtracking.
 To change the size of the board, just change the "N" value and change the size of the array in every part of the code (Default is 8 as it is an 8*8 Chess board) and then change the 
 (8*8)
 int board[][] = { { 0, 0, 0, 0, 0, 0, 0, 0 }, 
-				          { 0, 0, 0, 0, 0, 0, 0, 0 }, 
-				          { 0, 0, 0, 0, 0, 0, 0, 0 }, 
-				          { 0, 0, 0, 0, 0, 0, 0, 0 },         
-				          { 0, 0, 0, 0, 0, 0, 0, 0 },
-				          { 0, 0, 0, 0, 0, 0, 0, 0 },
-				          { 0, 0, 0, 0, 0, 0, 0, 0 },
-				          { 0, 0, 0, 0, 0, 0, 0, 0 }};
+		  { 0, 0, 0, 0, 0, 0, 0, 0 }, 
+		  { 0, 0, 0, 0, 0, 0, 0, 0 }, 
+		  { 0, 0, 0, 0, 0, 0, 0, 0 },         
+	          { 0, 0, 0, 0, 0, 0, 0, 0 },
+		  { 0, 0, 0, 0, 0, 0, 0, 0 },
+		  { 0, 0, 0, 0, 0, 0, 0, 0 },
+		  { 0, 0, 0, 0, 0, 0, 0, 0 }};
         
         TO 
         
         (4*4)
         int board[][] = { { 0, 0, 0, 0}, 
-				                  { 0, 0, 0, 0}, 
-				                  { 0, 0, 0, 0}, 
-				                  { 0, 0, 0, 0}};
+			  { 0, 0, 0, 0}, 
+			  { 0, 0, 0, 0}, 
+			  { 0, 0, 0, 0}};
         
 All the changes have to be done in BT.java program file.
 
