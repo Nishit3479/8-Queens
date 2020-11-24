@@ -22,5 +22,7 @@ int board[][] = { { 0, 0, 0, 0, 0, 0, 0, 0 },
 				                  { 0, 0, 0, 0}, 
 				                  { 0, 0, 0, 0}};
         
+All the changes have to be done in BT.java program file.
+
 Any queries/doubts regarding the program ?
 Feel free to ping me up anytime. I will try to resolve it as soon as possible.
